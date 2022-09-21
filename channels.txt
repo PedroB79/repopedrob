@@ -39,6 +39,8 @@ acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Final basket liga cat.
+acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080
@@ -145,8 +147,6 @@ acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BarçaTv
 acestream://e401beff79c70a54542c38728e20141122e6c5c8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Esport 3 cat  
-acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,REAL MADRID TV
 acestream://15d01e482f108a8e61db4612b8b222bf72843b2d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
@@ -189,3 +189,5 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,2130 Delta Force 2
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
