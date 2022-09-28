@@ -39,7 +39,7 @@ acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 1080
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
@@ -163,7 +163,7 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TeleCirco 1080
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,# 0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
